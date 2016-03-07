@@ -1,2 +1,5 @@
 # twitter-marketing-bot
-Python scripts to market news to twitter followers
+These are some simple Python scripts to market news to twitter followers.
+
+Prerequisites
+
